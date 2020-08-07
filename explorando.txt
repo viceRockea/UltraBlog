@@ -1,1 +1,4 @@
 Explorando git 
+
+hoy el 07/08/2020 aunque esto me lo puede decir git 
+lo escribo por aqui ;)
