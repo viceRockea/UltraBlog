@@ -4,3 +4,5 @@ hoy el 07/08/2020 aunque esto me lo puede decir git
 lo escribo por aqui ;)
 
 Quien hace este texto sera un futuro programador 
+
+Hoy es un Taoista 
